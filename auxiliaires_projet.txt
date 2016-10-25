@@ -1,0 +1,3 @@
+Une information annexe, pas indispensable à la compréhension globale du projet :
+
+Reddit est un site web communautaire de partage de signets permettant aux utilisateurs de soumettre leurs liens et de voter pour les liens proposés par les autres utilisateurs.
